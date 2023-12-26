@@ -1,0 +1,29 @@
+
+
+.d{
+    width: 100%;
+    margin-top: 25px;
+}
+.navbar{
+    background-color:rgba(0, 0, 0, 0.507);
+    backdrop-filter: blur(10px);
+   border-bottom:2px solid rgb(0, 0, 0)
+
+}
+.mainnav{
+    background-image: url("https://res.cloudinary.com/dsovyumur/image/upload/v1702617667/Picture2_gofnqn.png ");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.nav-link{
+    color: aliceblue;
+}
+.text{
+   height: 80vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
